@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 **B.Tech CSE** @ MMMUT, Gorakhpur (2022–2026) — **CGPA:** 7.9/10  
 - 💻 Skilled in **Java, C++, JavaScript, MERN Stack, SQL**  
-- 🏆 **5★ Java (HackerRank)** | **LeetCode Top 18%** | **3★ CodeChef** | **Pupil on Codeforces**  
+- 🏆 **5★ Java (HackerRank)** | **LeetCode Top 12%** | **3★ CodeChef** | **Pupil on Codeforces**  
 - 🌱 Currently learning **Machine Learning & AI Development**  
 - 📫 Reach me at: **bg554411@gmail.com**  
 
@@ -49,15 +49,25 @@ Responsive restaurant website using **HTML5, CSS3, JavaScript**.
 - **CodeForces:** Pupil | Max Rating: 1247 (200+ Problems Solved)  
 - **CodeChef:** 3★ (Max Rating: 1663) | **Global Rank 391** in Starters 129  
 - **GeeksforGeeks:** 425+ Problems Solved  
-- **LeetCode:** 140+ Problems Solved  
+- **LeetCode:** 120+ Problems Solved — **Top 12%**  
 - **HackerRank:** 5★ in Java  
 - **Certifications:** *Introduction to Machine Learning* — IIT Madras (Top 1% in the course)  
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub & Competitive Programming Trophies
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=BabluGupta123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+</p>
+
+<p align="center">
+  <!-- Competitive Programming Badges -->
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-3★-6E1E62?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Top%2012%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-425%2B%20Problems%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5★%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
 ---
