@@ -57,7 +57,7 @@ Responsive restaurant website using **HTML5, CSS3, JavaScript**.
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BabluGupta123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BabluGupta123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </p>
 
 ---
