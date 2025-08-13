@@ -49,7 +49,7 @@ Responsive restaurant website using **HTML5, CSS3, JavaScript**.
 - **CodeForces:** Pupil | Max Rating: 1247 (200+ Problems Solved)  
 - **CodeChef:** 3★ (Max Rating: 1663) | **Global Rank 391** in Starters 129  
 - **GeeksforGeeks:** 425+ Problems Solved  
-- **LeetCode:** 120+ Problems Solved — **Top 12%**  
+- **LeetCode:** 150+ Problems Solved — **Top 12%**  
 - **HackerRank:** 5★ in Java  
 - **Certifications:** *Introduction to Machine Learning* — IIT Madras (Top 1% in the course)  
 
