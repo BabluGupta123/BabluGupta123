@@ -55,18 +55,19 @@ Responsive restaurant website using **HTML5, CSS3, JavaScript**.
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BabluGupta123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=6" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/bablu-gupta-1aaa2a257"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></a>
   <a href="https://github.com/BabluGupta123"><img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"></a>
   <a href="https://leetcode.com/u/bablu_gupta_/"><img src="https://img.shields.io/badge/-LeetCode-black?logo=LeetCode&logoColor=FFA116"></a>
   <a href="mailto:bg554411@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BabluGupta123&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
